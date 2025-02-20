@@ -3,6 +3,7 @@ Pentru utilizarea acestui template:
 1. În Visual Studio Code se va crea un proiect nou
 2. Bord: L031K6
 3. Framework: STM32CUBE
+   
 ![{E1323264-1BE1-4237-9B80-81410B8096B8}](https://github.com/user-attachments/assets/ac5bcc72-fd56-4fd7-9ff2-200179e6f66a)
 
 5. După generarea proicetului pe calculator ne va muta în proiect
